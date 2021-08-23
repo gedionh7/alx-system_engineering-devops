@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-echo "Best School" >> '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
-=======
-echo "Best School" >> "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)"
->>>>>>> 88df65cb3b778c03e2112195e1953b37a02e1342
+echo "Best School" > '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)'
